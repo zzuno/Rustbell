@@ -70,7 +70,7 @@ flyctl deploy
 # Access at https://rustbell.fly.dev/notify
 ```
 
-Want to self-host? Just run cargo run — it’s that simple.
+Want to self-host? Just run `cargo run` — it’s that simple.
 
 ## 📫 Notifications
 Choose one or both:
@@ -79,7 +79,7 @@ Choose one or both:
 
 🔵 Telegram → via Bot API
 
-Messages are sent instantly using reqwest.
+Messages are sent instantly using `reqwest`.
 
 ## 📸 QR Code
 Use the included QR code:
