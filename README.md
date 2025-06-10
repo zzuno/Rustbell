@@ -1,4 +1,5 @@
 # 🦀 Rustbell: Deviceless Doorbell (Rust Edition)
+## A doorbell for the broke and the bold – just scan the QR, we’re living in 2025
 > A smart doorbell for hackers, minimalists, and the doorbell-averse. Just scan and notify — no wires, no worries.
 
 ![QR Code](./assets/img1.png)
