@@ -1,0 +1,11 @@
+/Users/junalej/Documents/rustbell/target/debug/deps/libsocket2-4b835f0651131fac.rmeta: /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/lib.rs /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockaddr.rs /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/socket.rs /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockref.rs /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sys/unix.rs
+
+/Users/junalej/Documents/rustbell/target/debug/deps/libsocket2-4b835f0651131fac.rlib: /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/lib.rs /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockaddr.rs /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/socket.rs /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockref.rs /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sys/unix.rs
+
+/Users/junalej/Documents/rustbell/target/debug/deps/socket2-4b835f0651131fac.d: /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/lib.rs /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockaddr.rs /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/socket.rs /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockref.rs /Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sys/unix.rs
+
+/Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/lib.rs:
+/Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockaddr.rs:
+/Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/socket.rs:
+/Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sockref.rs:
+/Users/junalej/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.10/src/sys/unix.rs:

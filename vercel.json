@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "api/*.rs",
+      "use": "@vercel/rust"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/notify",
+      "dest": "api/notify.rs"
+    }
+  ]
+}
